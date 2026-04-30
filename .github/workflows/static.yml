@@ -14,24 +14,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 18
+          cache: 'npm'
 
-      - name: Remove node_modules completely
-        run: rm -rf node_modules
+      - name: Clean everything
+        run: |
+          rm -rf node_modules
+          rm -rf dist
 
-      - name: Install dependencies clean
-        run: npm ci
+      - name: Install dependencies fresh
+        run: npm install --force
 
-      - name: Ensure vite is executable
-        run: chmod +x ./node_modules/.bin/vite
-
-      - name: Build project
+      - name: Build using npx
         run: npx vite build
 
       - name: Upload artifact
@@ -48,6 +46,5 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4
