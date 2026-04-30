@@ -22,8 +22,11 @@ jobs:
         with:
           node-version: 18
 
+      - name: Clean install environment
+        run: rm -rf node_modules package-lock.json
+
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build project
         run: npm run build
