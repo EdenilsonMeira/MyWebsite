@@ -12,26 +12,31 @@ const Contact = ({ data, socialData }) => {
 
   const [status, setStatus] = useState('');
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
+ const handleSubmit = (e) => {
+  e.preventDefault();
 
-    setStatus('Sending...');
-
-    emailjs.sendForm(
-      'service_rlje9lr',
-      'template_5ltlo9m',
-      e.target,
-      '7B73MA4JhWKjNmnxq'
-    )
-    .then(() => {
-      setStatus('Message sent successfully!');
-      e.target.reset();
-    })
-    .catch((error) => {
-      console.error(error);
-      setStatus('Failed to send message. Please try again.');
-    });
+  const templateParams = {
+    name: e.target.name.value,
+    email: e.target.email.value,
+    subject: e.target.subject.value,
+    msg: e.target.msg.value,   // must match template
   };
+
+  emailjs.send(
+    'YOUR_SERVICE_ID',
+    'YOUR_TEMPLATE_ID',
+    templateParams,
+    'YOUR_PUBLIC_KEY'
+  )
+  .then(() => {
+    alert("Message sent successfully!");
+    e.target.reset();
+  })
+  .catch((error) => {
+    console.error(error);
+    alert("Failed to send message.");
+  });
+};
 
   return (
     <section id="contact" className="st-dark-bg">
