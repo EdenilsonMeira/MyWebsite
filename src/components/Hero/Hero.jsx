@@ -47,7 +47,7 @@ const Hero = ({ data, socialData }) => {
               data-aos-delay="500"
             >
               <ScrollLink className="st-btn st-style1 st-color1" to="contact">
-                Hire Me
+                Let's Talk
               </ScrollLink>
             </div>
           </div>
@@ -61,14 +61,14 @@ const Hero = ({ data, socialData }) => {
           data-aos-delay="1000"
           data-aos-duration="1000"
         />
-        <div
+        {/* <div
           className="st-social-group"
           data-aos="fade-right"
           data-aos-delay="1000"
           data-aos-duration="1000"
         >
           <SocialLinks data={socialData} />
-        </div>
+        </div> */}
       </div>
     </section>
   );

@@ -9,13 +9,13 @@ const Hero2 = ({ data, socialData }) => {
   return (
     <section id="home"
       className="st-hero st-style2 st-bg st-dynamic-bg st-ripple-version" style={{ backgroundImage: `url(${bgImgLink})` }}>
-      <div className="container">
+      {/* <div className="container">
         <div className="st-hero-text">
           <h1 data-aos="fade-up" data-aos-duration="800" data-aos-delay="300">{perser(title)}</h1>
           <p data-aos="fade-up" data-aos-duration="800" data-aos-delay="400">{perser(text)}</p>
           <SocialLinks2 data={socialData} data-aos="fade-up" data-aos-duration="800" data-aos-delay="500"/>
         </div>
-      </div>
+      </div> */}
       <div id="background-wrap">
         <div className="bubble x1"></div>
         <div className="bubble x2"></div>
