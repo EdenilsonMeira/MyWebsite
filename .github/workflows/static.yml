@@ -22,14 +22,17 @@ jobs:
         with:
           node-version: 18
 
-      - name: Clean install environment
-        run: rm -rf node_modules package-lock.json
+      - name: Remove node_modules completely
+        run: rm -rf node_modules
 
-      - name: Install dependencies
+      - name: Install dependencies clean
         run: npm ci
 
+      - name: Ensure vite is executable
+        run: chmod +x ./node_modules/.bin/vite
+
       - name: Build project
-        run: npm run build
+        run: npx vite build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
