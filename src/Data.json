@@ -1,0 +1,625 @@
+{
+  "heroData": {
+    "homeOneHero": {
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "imgLink": "/images/section/hero-img.gif",
+      "title": "Eddie <br /> De Meira",
+      "subTitle": "Hello, I’m",
+      "designation": "Senior Software Engineer"
+    },
+    "homeTwoHero": {
+      "imgAuthor": "/images/section/hero-img.gif",
+      "bgImgLink": "/images/background/hero-bg.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeThreeHero": {
+      "imgAuthor": "/images/section/hero-img.gif",
+      "bgImgLink": "/images/background/hero-bg-1.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    },
+    "homeFourHero": {
+      "imgAuthor": "/images/section/hero-img.gif",
+      "bgImgLink": "/images/background/hero-bg-2.jpg",
+      "title": "Hi, I am <span>Jhon Doe</span>",
+      "text": "I am a frontend web developer. I can provide clean code and pixel perfect design. <br>I also make website more & more interactive with web animations."
+    }
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Eddie De Meira",
+    "subtitle": "Senior Software Engineer",
+    "text": "I am a Software Engineer with focus on coding, project management, systems engineering, A.I. integration, SCADA systems, simulation, documentation, system's architecture design, requirements management, real-time data processing, and mission-critical applications.",
+    "details": [
+      {
+        "title": "PMP",
+        "info": "Project Management Professional by PMI"
+      },
+      {
+        "title": "CMSP",
+        "info": "Certified Modeling & Simulation Professional by NTSA"
+      },
+      {
+        "title": "ITCP",
+        "info": "Information Technology Certified Professional by CIPS"
+      },
+      {
+        "title": "ISP",
+        "info": "Information Systems Professional by CIPS"
+      },
+      {
+        "title": "CTech",
+        "info": "Certified Technician by OACETT"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      },
+      {
+        "title": "Languages",
+        "info": "English, Portuguese"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "./images/icon/icon1.png",
+        "title": "System Architecture Design",
+        "text": "Design a scalable and modular system architecture that separates concerns across data acquisition, processing, and user interaction layers.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/icon/icon2.png",
+        "title": "A.I. Integration",
+        "text": "Integrate real-time data pipelines with intelligent components (e.g., AI/ML agents) to enable adaptive decision-making and system responsiveness.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/icon/icon3.png",
+        "title": "Coding",
+        "text": "Ensure reliability, security, and interoperability by leveraging standardized protocols, and extensible interfaces.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/icon/icon4.png",
+        "title": "Project Management",
+        "text": "Plan, execute, and monitor projects using structured methodologies to ensure delivery on time, within scope, and on budget.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/icon/icon5.png",
+        "title": "Leadership",
+        "text": "Coordinate cross-functional teams, manage risks, and adapt to changing requirements in dynamic environments.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/icon/icon6.png",
+        "title": "Systems Engineering",
+        "text": "Coordinate multidisciplinary teams to align technical solutions with operational needs and stakeholder objectives.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "With over 10 years of experience in the field, I have developed a diverse skill set that encompasses various aspects of software engineering, project management, and systems design. My expertise includes coding, system architecture design, A.I. integration, real-time data processing, and leadership in managing complex projects. I am proficient in multiple programming languages and frameworks, and I have a strong background in developing scalable and modular systems that meet the needs of mission-critical applications.",
+    "skills": [
+      {
+        "title": "System Architecture Design",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "SCADA & Industrial Automation",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "A.I. & Machine Learning Integration",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "Modeling & Simulation",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "Project Management",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Systems Engineering",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Project Management",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Software Development (C#.NET, Python, C/C++)",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Technical Documentation",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "title": "Data Engineering and Analytics",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Architecture Design",
+        "subTitle": "Systems Engineering",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "3D Modeling",
+        "subTitle": "Game / Simulation",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "./images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "./images/client/client1.png",
+        "title": "Dr. Andrea Lima Pardini",
+        "designation": "Project Manager",
+        "text": "I feel privileged to know Eddie and to have witnessed firsthand his impressive combination of technical expertise, project leadership, and creative problem-solving skills."
+      },
+      {
+        "imgLink": "./images/client/client2.png",
+        "title": "James Keogh",
+        "designation": "Computer Program Analyst",
+        "text": "I have worked with Eddie in the past so I can write this with complete honesty. Eddie is one of the most learned people I have ever met. His thirst for knowledge is unquenchable."
+      },
+      {
+        "imgLink": "./images/client/client3.png",
+        "title": "Daniel Bergeron",
+        "designation": "Portfolio Manager",
+        "text": "Eddie has shown a lot of initiative and drive while holding a position of virtual simulation lead for the Royal Canadian Navy. He is absolutely organized and focus in what he does and I highly recommend him as a true professional."
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Senior Software Engineer",
+        "duration": "May 2022 - April 2025",
+        "subTitle": "ADGA Group Consultants Inc.",
+        "text": "Developed C# applications and Unity 3D simulations, integrating physics, AI navigation, and UI systems for complex training environments."
+      },
+      {
+        "title": "Program Analyst",
+        "duration": "Sept 2021 - May 2022",
+        "subTitle": "ADGA Group Consultants Inc.",
+        "text": "Designed and implemented simulation systems using Java/JavaFX, focusing on interoperability and real-time visualization."
+      },
+      {
+        "title": "SCADA Analyst",
+        "duration": "Jul 2011 - May 2020",
+        "subTitle": "Bombardier Transportation Inc.",
+        "text": "Developed SCADA and train monitoring systems using C#, OPC, and ICONICS, supporting complex railway operations and automation."
+      },
+      {
+        "title": "Site Manager",
+        "duration": "Apr 2010 - Jul 2011",
+        "subTitle": "Transformix Engineering Inc.",
+        "text": "Managed international engineering projects, coordinating cross-border teams, budgets, and project schedules."
+      },
+      {
+        "title": "Instrumenation Technician",
+        "duration": "Sept 2009 - April 2010",
+        "subTitle": "Research In Motion (RIM)",
+        "text": "Maintained and calibrated electronic instrumentation while ensuring ISO-compliant quality control and system accuracy."
+      },
+      {
+        "title": "Field Technician",
+        "duration": "May 2009 - Sept 2009",
+        "subTitle": "The Pressure Pipe Inspection Company (PPIC)",
+        "text": "Performed field inspections and technical support for pipeline systems, ensuring operational integrity."
+      },
+      {
+        "title": "Robotics Technician & Automation Lead",
+        "duration": "Jul 2006 - Aug 2008",
+        "subTitle": "Hendrickson Springs Inc.",
+        "text": "Led automation and robotics maintenance, overseeing production systems and technical teams."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "MSc Computing and Information Systems",
+        "duration": "2023 - 2026",
+        "subTitle": "Athabasca University",
+        "text": "Thesis research on AI-driven multi-agent system for early wildfire detection and response, leveraging real-time data processing and adaptive decision-making to enhance wildfire management strategies."
+      },
+      {
+        "title": "Precision Mechanics Engineering Technology",
+        "duration": "1987 - 1991",
+        "subTitle": "SENAI Suico-Brasileiro",
+        "text": "Diploma in Precision Mechanics Engineering Technology with a focus on CNC programming, precision machining, and quality control, providing a strong foundation in manufacturing processes and mechanical design principles."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+  },
+  "socialData": [
+    {
+      "icon": "dribbble",
+      "title": "Dribbble",
+      "link": "/"
+    },
+    {
+      "icon": "behance",
+      "title": "Behance",
+      "link": "/"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "/"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "/"
+    }
+  ],
+  "socialData2": [
+    {
+      "icon": "facebook-f",
+      "link": "/facebook"
+    },
+    {
+      "icon": "twitter",
+      "link": "/twitter"
+    },
+    {
+      "icon": "github",
+      "link": "/github"
+    }
+  ]
+}
