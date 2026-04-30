@@ -588,24 +588,9 @@
   },
   "socialData": [
     {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
-    },
-    {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
-    },
-    {
-      "icon": "twitter",
-      "title": "Twitter",
-      "link": "/"
-    },
-    {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/eddie-de-meira-66386960/"
     }
   ],
   "socialData2": [
