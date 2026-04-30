@@ -30,7 +30,7 @@ jobs:
         run: npm install --force
 
       - name: Build using npx
-        run: npx vite build
+        run: npx --yes vite build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
