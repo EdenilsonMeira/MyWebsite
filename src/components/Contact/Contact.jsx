@@ -23,10 +23,10 @@ const Contact = ({ data, socialData }) => {
   };
 
   emailjs.send(
-    'YOUR_SERVICE_ID',
-    'YOUR_TEMPLATE_ID',
+    'service_rlje9lr',
+    'template_5ltlo9m',
     templateParams,
-    'YOUR_PUBLIC_KEY'
+    '7B73MA4JhWKjNmnxq'
   )
   .then(() => {
     alert("Message sent successfully!");
