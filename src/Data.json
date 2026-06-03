@@ -193,19 +193,73 @@
   "portfolioData": {
     "portfolioItems": [
       {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Architecture Design",
-        "subTitle": "Systems Engineering",
+        "imgLink": "./images/portfolio/portfolio1.png",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.png",
+        "title": "PMP",
+        "subTitle": "Project Management Professional",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "3D Modeling",
-        "subTitle": "Game / Simulation",
+        "imgLink": "./images/portfolio/portfolio2.png",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.png",
+        "title": "ITCP",
+        "subTitle": "Information Technology Certified Professional",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio3.png",
+        "imgLinkLg": "./images/portfolio/portfolio3_lg.png",
+        "title": "ISP",
+        "subTitle": "Information Systems Professional",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
+        "title": "CMSP",
+        "subTitle": "Certified Modeling and Simulation Professional",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio5.png",
+        "imgLinkLg": "./images/portfolio/portfolio5_lg.png",
+        "title": "CTech",
+        "subTitle": "Certified Technician",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
+        "title": "Precision Mechanic Technician",
+        "subTitle": "College Diploma",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.png",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "./images/portfolio/portfolio2.png",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.png",
+        "title": "ITCP",
+        "subTitle": "Information Technology Certified Professional",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
@@ -248,7 +302,7 @@
       },
       {
         "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.png",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -256,8 +310,8 @@
         "delay": "200"
       },
       {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio2.png",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.png",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -302,7 +356,7 @@
       },
       {
         "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
+        "imgLinkLg": "./images/portfolio/portfolio1_lg.png",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",
@@ -310,62 +364,8 @@
         "delay": "200"
       },
       {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "300"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio3.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio3_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "400"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio4.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio4_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "500"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio5.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio5_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "600"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio6.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio6_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "700"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio1.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio1_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
-        "effect": "fade-up",
-        "duration": "500",
-        "delay": "200"
-      },
-      {
-        "imgLink": "./images/portfolio/portfolio2.jpg",
-        "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
+        "imgLink": "./images/portfolio/portfolio2.png",
+        "imgLinkLg": "./images/portfolio/portfolio2_lg.png",
         "title": "Product Design",
         "subTitle": "Design / Marketing",
         "effect": "fade-up",

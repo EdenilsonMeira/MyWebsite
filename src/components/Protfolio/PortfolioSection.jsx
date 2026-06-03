@@ -47,14 +47,14 @@ const PortfolioSection = ({ data }) => {
     <>
       <section id="portfolio">
         <div className="st-height-b100 st-height-lg-b80"></div>
-        <SectionHeading title={'Portfolio'} />
+        <SectionHeading title={'Certifications'} />
         <div className="container">
           <div className="row">
             {visibleItems.map((element, index) => (
               <SinglePortfolio data={element} key={index} getData={getData} />
             ))}
             <div className="col-lg-12 text-center">
-              <div className="st-portfolio-btn">
+              {/* <div className="st-portfolio-btn">
                 {showLoadMore && (
                   <button
                     className="st-btn st-style1 st-color1"
@@ -63,7 +63,7 @@ const PortfolioSection = ({ data }) => {
                     Load more
                   </button>
                 )}
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

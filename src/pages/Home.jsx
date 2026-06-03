@@ -20,8 +20,8 @@ const Home = () => {
       <Skill data={skillData} data-aos="fade-right" />
       <Resume data={resumeData} />
       <ReviewSection data={reviewData} data-aos="fade-right" />
+      <PortfolioSection data={portfolioData} data-aos="fade-right" />
       <Contact data={contactData} socialData={socialData} data-aos="fade-right" />
-      {/* <PortfolioSection data={portfolioData} data-aos="fade-right" /> */}
       {/* <BlogSection data={blogData} data-aos="fade-right" /> */}
     </>
   )
